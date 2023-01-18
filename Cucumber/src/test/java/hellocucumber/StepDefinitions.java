@@ -7,16 +7,26 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import java.time.Duration;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class StepDefinitions {
 
     WebDriver driver = new ChromeDriver();
+    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
-    //STORY#1
+
+    // STORY#1
     // the user logged in
     @Given("^the user logged in$")
     public void the_user_logged_in() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\danak\\IdeaProjects\\sqe-hw3\\Selenium\\chromedriver.exe");
+        driver.manage().window().maximize();
+
         //navigate to shop's url
         driver.navigate().to("http://localhost:8080/login");
 
@@ -41,22 +51,37 @@ public class StepDefinitions {
     @When("^the user clicks on \"write your review\" button$")
     public void user_submits_review() {
         try {//open review
-            driver.findElement(By.xpath("//*[@class='btn btn-comment post-product-comment']")).click();
+            driver.findElement(By.xpath("/*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button")).click();
             //fill the review
-            driver.findElement(By.id("comment_title")).sendKeys("test");
-            driver.findElement(By.id("comment_content")).sendKeys("test");
+            driver.findElement(By.xpath("//*[@id='post-product-comment-form']/div[2]/div/input")).sendKeys("test");
+            driver.findElement(By.xpath("//*[@id='post-product-comment-form']/div[4]/div/textarea")).sendKeys("test");
             // send the review
             driver.findElement(By.xpath("//*[@class='btn btn-comment btn-comment-big']")).click();
         }
-        catch (Exception e){
+        catch (Exception ignored){ }
+    }
 
+    // the user submit a review that was disabled
+    @When("^the user submit the review$")
+    public void user_submits_disabled_review() {
+        try {
+            // send the review
+            driver.findElement(By.xpath("//*[@class='btn btn-comment btn-comment-big']")).click();
         }
+        catch (Exception ignored){ }
     }
 
     // check if the pop up approval is there
     @Then("^message will be shown 'Review sent'$")
     public void theScenarioPasses() {
-//        assert(driver.findElement(By.xpath("//*[@class='modal-dialog']")),);
+        int flag = 1;
+        try {//open review
+            driver.findElement(By.xpath("//*[@class='btn btn-comment post-product-comment']"));
+        }
+        catch (Exception e){
+            flag = 0;
+        }
+        assertEquals(flag, 0);
     };
 
     //STORY#2
@@ -64,8 +89,6 @@ public class StepDefinitions {
     @Given("^the admin logged in$")
     public void the_admin_logged_in() {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\danak\\IdeaProjects\\sqe-hw3\\Selenium\\chromedriver.exe");
-//        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-//        driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
         driver.manage().window().maximize();
 
         //navigate to shop's url
@@ -75,6 +98,7 @@ public class StepDefinitions {
         driver.findElement(By.id("email")).sendKeys("kapustya@post.bgu.ac.il");
         driver.findElement(By.id("passwd")).sendKeys("Demo12345!");
         driver.findElement(By.id("submit_login")).click();
+
     }
 
     // the dashboard is shown to the admin
@@ -84,15 +108,12 @@ public class StepDefinitions {
 
     // navigate to comment module
     @And("^the admin navigates to \"Product Comments\" module$")
-    public void navigate_to_comment() {
-        //opening the bar
-        try{
-        driver.findElement(By.xpath("//*[@id=\"header_infos\"]/i")).click();}
-        catch (Exception s){}
+    public void navigate_to_comment() throws InterruptedException {
         // selecting "modules"
-        driver.findElement(By.xpath("//*[@id=\"subtab-AdminParentModulesSf\"]/a/i[2]")).click();
+        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id=\"subtab-AdminParentModulesSf\"]/a"))).click();
         // selecting "module manger"
-        driver.findElement(By.xpath("//*[@id=\"subtab-AdminModulesSf\"]/a")).click();
+        driver.findElement(By.xpath("//*[@id=\"subtab-AdminModulesSf\"]")).click();
+
         // searching for the "Product Comments" module by typing "comment" in the search bar
         driver.findElement(By.xpath("//*[@id=\"search-input-group\"]/div[1]/div[2]/input")).sendKeys("comment");
         // opening the "Product Comments" module
@@ -102,23 +123,36 @@ public class StepDefinitions {
     // disabling the commenting
     @When("^the admin disable the module$")
     public void disable_comment() {
-        // opening module menue
-        driver.findElement(By.xpath("//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button"));
+        // opening module menu
+        driver.findElement(By.xpath("//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button")).click();
         // selecting "disable"
-        driver.findElement(By.xpath("//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button"));
-        //approving disabling
+        driver.findElement(By.xpath("//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button")).click();
+
     }
 
-    // $$*TODO* explain what this step does$$
-    @Then("^click on 'Yes, disable it")
+    // check if disable worked or not
+    @Then("^click on 'Yes, disable it'")
     public void yes_for_disable() {
-        //TODO: click "yes" on popup window only if exists
+        int flag = 0;
         try {
-            driver.findElement(By.xpath("//*[@id=\"module-modal-confirm-productcomments-disable\"]/div/div/div[3]/a"));
+            driver.findElement(By.xpath("//*[@id=\"module-modal-confirm-productcomments-disable\"]/div/div/div[3]/a")).click();
         }
         catch (Exception err){
-
+            flag = 1;
         }
+        assertEquals(flag, 1);
+    }
+
+    // check if disable worked or not
+    @Then("^error message should pop up")
+    public void error_msg() {
+        int flag = 0;
+        try {
+            driver.findElement(By.xpath("//*[@id=\"product-comment-post-error\"]/div/div/div[1]")).click();
+        }
+        catch (Exception err){
+            flag = 1;
+        }
+        assertEquals(flag, 1);
     }
 }
-

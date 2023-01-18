@@ -15,7 +15,6 @@ story('Add a comment', function () {
     }
     catch (e) {
       // in case the disable happened before commenting
-      pass
     }
   }
 })
