@@ -1,0 +1,635 @@
+digraph prestahop{
+labelloc="t";
+label=<<font point-size='24'>prestahop</font> <font point-size='15'><br/>2023-01-17 18:13:08</font>>;
+concentrate="true";
+
+ne054731e_1[ shape="circle" color="#338866" fontcolor="#338866" label="start" ]
+node[ shape="point" color="#000000" ]
+edge[ fontname="Courier" ]
+
+ned456345_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+ncdbcb4bc_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+ne3350834_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nc3250c20_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n4f847a88_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n46e355cf_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n14f769cf_1[ fillcolor="#ceb6ce#b3cdb3" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+nf835790d_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nfd087431_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+na9e7a8dc_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nab9cb1a7_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n1f36dc09_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nddcc168f_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n5e8706c3_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n1b62c22a_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n4a_1[ fillcolor="#b3cdb3#ceb6ce" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+nd9656a34_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n90b9c8ed_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nfe719b0_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n70a9ccd9_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n639756e2_1[ fillcolor="#ceb6ce#b3cdb3" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+nae68871e_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n6c63d31a_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+na5ba39c6_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nfa3c9eba_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n342e458e_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n31ebec4a_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nb702eeaf_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n241f0db1_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n6dde0171_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n7f1cc7a9_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n3be55058_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+na11b2ca4_1[ fillcolor="#b3cdb3#ceb6ce" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+n9e24679b_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n4e9fed5d_1[ fillcolor="#b3cdb3#ceb6ce" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+na5b13272_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n2c6c03a2_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+nd57f209e_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n71b21b50_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n8ac57d21_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+n527b3f91_1[ fillcolor="#ceb6ce#b3cdb3" shape="trapezium" style="filled" label="end sessions:\nAdd_a_comment\ndisable_the_authorization_to_comment\n" ]
+
+n305a2baf_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n84672b91_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n576c6995_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+nbab1a34b_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n85a1365e_1[ fillcolor="#ceb6ce" shape="trapezium" style="filled" label="end session:\nAdd_a_comment\n" ]
+
+n6863019c_1[ fillcolor="#b3cdb3" shape="trapezium" style="filled" label="end session:\ndisable_the_authorization_to_comment\n" ]
+
+ned456345_1 -> nd57f209e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+ncdbcb4bc_1 -> ne899efb_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+ncdbcb4bc_1 -> n24d70125_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+nbfe9b1e8_1 -> n527b3f91_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+ne3350834_1 -> n57416797_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+ne3350834_1 -> n6e85df32_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n2ceb89e9_1 -> n3091af2_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n2ceb89e9_1 -> nf0e1e27e_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n4628ed2d_1 -> n70727d6a_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n4628ed2d_1 -> n1c467e36_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+nc3250c20_1 -> ned6e9c5d_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+nc3250c20_1 -> n4e75e31e_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+ne1d3b18_1 -> n92ff9cc1_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+ne1d3b18_1 -> nf91cca3f_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+ne2923e95_1 -> nddcc168f_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nb32eaf24_1 -> nae68871e_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n4f847a88_1 -> nfe719b0_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n1ef563f8_1 -> n1b62c22a_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+ne03e432b_1 -> n544aa28e_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+ne03e432b_1 -> na0a0e253_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n7dff2be8_1 -> nf20b8b4b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n7dff2be8_1 -> n6638e941_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+n70727d6a_1 -> n241f0db1_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n710ebc17_1 -> n46e355cf_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n52328f2b_1 -> n4e9fed5d_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n14ad41b6_1 -> nfe719b0_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+na9fc58e0_1 -> nfb6f49b0_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+na9fc58e0_1 -> n9e53a368_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n3c567a4a_1 -> nb062d9ad_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n3c567a4a_1 -> n944c6abb_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+n22c97dd7_1 -> n1f36dc09_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n44b1cc90_1 -> n2ceb89e9_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+n44b1cc90_1 -> n8a82525_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+na6f0e3d3_1 -> n675382fb_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+na6f0e3d3_1 -> n6ae73c68_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n7b395a1a_1 -> n6638e941_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n7b395a1a_1 -> n5156eb23_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+nf91cca3f_1 -> n6d2929a2_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+nf91cca3f_1 -> n7dff2be8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+nea77d754_1 -> n9e24679b_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+nd90cce2b_1 -> n3565e68_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+nd90cce2b_1 -> n5def2fd4_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+nbfcf6ae7_1 -> n44b1cc90_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+nbfcf6ae7_1 -> n83c5c37c_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n50a37a8b_1 -> ne3350834_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+na6283f01_1 -> na9fc58e0_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+na6283f01_1 -> n9a7f8989_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n8838c011_1 -> n3be55058_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n46e355cf_1 -> n6c63d31a_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n46e355cf_1 -> n9a4eed9c_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+ndd889da7_1 -> n357e8e18_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+ndd889da7_1 -> n3091af2_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+ned6e9c5d_1 -> na11b2ca4_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n3f22d017_1 -> n14f769cf_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nc9cb48fe_1 -> n6ae73c68_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+nc9cb48fe_1 -> ncd9f62dd_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nfb8028f_1 -> n35387fda_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+nfb8028f_1 -> n710ebc17_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n14f769cf_1 -> n6863019c_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+nf835790d_1 -> n8386500b_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+nf835790d_1 -> ne3350834_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+nfd087431_1 -> n9e24679b_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+nfd087431_1 -> n5422c09a_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+nc02e4717_1 -> nea77d754_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+nc02e4717_1 -> n8090e63f_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+nf53eb404_1 -> ne03e432b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+nf53eb404_1 -> nb5a1532c_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+na9e7a8dc_1 -> n35387fda_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+na9e7a8dc_1 -> n6dde0171_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n9e53a368_1 -> nefc69438_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n9e53a368_1 -> ndf208da7_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+n5def2fd4_1 -> n8838c011_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n5def2fd4_1 -> n4628ed2d_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+nab9cb1a7_1 -> n392a218_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+nf1d59de8_1 -> n84672b91_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n3565e68_1 -> nb702eeaf_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n92ff9cc1_1 -> n7dff2be8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n92ff9cc1_1 -> n7b395a1a_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+n1f36dc09_1 -> n70a9ccd9_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+nf20b8b4b_1 -> ned456345_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nf92ed86f_1 -> nfd02f24e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nf92ed86f_1 -> n5a8591f7_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+ncd9f62dd_1 -> n6ebb5647_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+ncd9f62dd_1 -> n1f1253ad_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+nddcc168f_1 -> n3f22d017_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n5e8706c3_1 -> nb5a1532c_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n5e8706c3_1 -> nd9656a34_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n1b62c22a_1 -> n1f36dc09_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+ne054731e_1 -> n5d4f069_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+ne054731e_1 -> n81706688_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+nfd02f24e_1 -> n5e59abd6_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+nfd02f24e_1 -> n4e75e31e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n83e2efaf_1 -> n7f1cc7a9_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+ne4dd0993_1 -> nbab1a34b_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nd9656a34_1 -> ncdbcb4bc_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+nd9656a34_1 -> n307fb69d_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n90b9c8ed_1 -> n4c62850_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n25b8d9ed_1 -> nd9656a34_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+nfe719b0_1 -> n8ac57d21_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+ne231e66c_1 -> nd68930f4_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+ne231e66c_1 -> na6283f01_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n41d305b0_1 -> n675382fb_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n41d305b0_1 -> nbcb16921_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n17561b33_1 -> na9e7a8dc_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n1a102475_1 -> ncdbcb4bc_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n357e8e18_1 -> n31ebec4a_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+ncfdc98ba_1 -> na5b13272_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n19bd91d5_1 -> n14f769cf_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nafcc9ca6_1 -> n85a1365e_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n4e75e31e_1 -> nafcc9ca6_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n4e75e31e_1 -> n78bf735b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n70a9ccd9_1 -> n9af35d16_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n1c467e36_1 -> n46900e73_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n1c467e36_1 -> n743c6ea7_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+nafeac69b_1 -> n639756e2_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n5a8591f7_1 -> n305a2baf_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n2f1df56f_1 -> n8090e63f_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n2f1df56f_1 -> na9fc58e0_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+ne899efb_1 -> na11b2ca4_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n1f314f45_1 -> n76b0c9e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+n1f314f45_1 -> n44b1cc90_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n639756e2_1 -> nb702eeaf_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n639756e2_1 -> nbab1a34b_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n5156eb23_1 -> n3c567a4a_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n5156eb23_1 -> na94cdb94_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+nae68871e_1 -> n4f847a88_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+nc6ff7387_1 -> n1ef563f8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+nc6ff7387_1 -> ncad38d66_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nc7c3f04_1 -> nf4b5fc5d_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+nc7c3f04_1 -> n5def2fd4_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n6c63d31a_1 -> n305a2baf_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n6c63d31a_1 -> nbfcf6ae7_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n6638e941_1 -> nda4548a4_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n6638e941_1 -> n3c567a4a_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+na5ba39c6_1 -> n90b9c8ed_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+nd68930f4_1 -> n17561b33_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+nd68930f4_1 -> n9a7f8989_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+ndb4c73c8_1 -> n6dde0171_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+nfa3c9eba_1 -> n5156eb23_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+nfa3c9eba_1 -> n52328f2b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+ndf208da7_1 -> n71b21b50_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n392a218_1 -> n4a_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n6d2929a2_1 -> n6863019c_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n8a82525_1 -> nc7c3f04_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n8a82525_1 -> nf0e1e27e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+nb5a1532c_1 -> n307fb69d_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nb5a1532c_1 -> na0a0e253_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n8386500b_1 -> ne4dd0993_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n8386500b_1 -> n6e85df32_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n5e59abd6_1 -> n342e458e_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n6ae73c68_1 -> n2b49db90_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n6ae73c68_1 -> n6ebb5647_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nbcb16921_1 -> ne231e66c_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+nbcb16921_1 -> nb108b3a9_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n4c62850_1 -> n4a_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nfd6904c_1 -> n50a37a8b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+nfd6904c_1 -> n83e2efaf_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n743c6ea7_1 -> n70a9ccd9_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n5aff0b63_1 -> n576c6995_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nf0e1e27e_1 -> nf4b5fc5d_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nf0e1e27e_1 -> nc6ff7387_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n342e458e_1 -> n8799dd5b_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n342e458e_1 -> n85a1365e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n31ebec4a_1 -> n576c6995_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+nb108b3a9_1 -> nd68930f4_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+nb108b3a9_1 -> nf1d59de8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+naada767c_1 -> n5e8706c3_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n675382fb_1 -> ne231e66c_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n675382fb_1 -> n2b49db90_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n8f8ba527_1 -> n8ac57d21_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nb702eeaf_1 -> n3be55058_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+nb702eeaf_1 -> ne1d3b18_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n241f0db1_1 -> nfa3c9eba_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n241f0db1_1 -> n7b395a1a_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n6dde0171_1 -> n71b21b50_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n6dde0171_1 -> nf92ed86f_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n8090e63f_1 -> nfb6f49b0_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n8090e63f_1 -> naada767c_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n495be3ea_1 -> nfd087431_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+ncad38d66_1 -> n1c467e36_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+ncad38d66_1 -> n22c97dd7_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+n7f1cc7a9_1 -> nbfe9b1e8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+n6e85df32_1 -> ncfdc98ba_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n6e85df32_1 -> ne2923e95_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n5422c09a_1 -> n3f224fc1_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n5422c09a_1 -> nf53eb404_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+n83c5c37c_1 -> n8799dd5b_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n83c5c37c_1 -> n8a82525_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+n1b7f45c4_1 -> nfd6904c_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n1b7f45c4_1 -> n8f8ba527_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n3be55058_1 -> n92ff9cc1_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n3be55058_1 -> n241f0db1_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: test title<br/>//*[@id='post-product-comment-form']/div[2]/div/input</font>> ]
+
+n5d4f069_1 -> nc9cb48fe_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n5d4f069_1 -> na6f0e3d3_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+n1f1253ad_1 -> n495be3ea_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n1f1253ad_1 -> nc02e4717_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+na11b2ca4_1 -> n2c6c03a2_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+na11b2ca4_1 -> nf835790d_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n9e24679b_1 -> n5e8706c3_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n9e24679b_1 -> nf53eb404_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n8799dd5b_1 -> nc7c3f04_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+n8799dd5b_1 -> nd90cce2b_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n4e9fed5d_1 -> na5ba39c6_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+na5b13272_1 -> nf91cca3f_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+na5b13272_1 -> n19bd91d5_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n544aa28e_1 -> n4f847a88_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n65a3eb64_1 -> nf835790d_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n2c6c03a2_1 -> n8386500b_1[ label=<DisableCommenting<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n2c6c03a2_1 -> n8dc2bd2a_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+nb062d9ad_1 -> nab9cb1a7_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n9a4eed9c_1 -> nbfcf6ae7_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n9a4eed9c_1 -> n1f314f45_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+n57416797_1 -> n527b3f91_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+na94cdb94_1 -> na5ba39c6_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n2b49db90_1 -> n2f1df56f_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n2b49db90_1 -> na6283f01_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+nfb6f49b0_1 -> nefc69438_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+nfb6f49b0_1 -> n25b8d9ed_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+nda4548a4_1 -> nd57f209e_1[ label=<EndOfAction<br/><font color="#444455">{eventName:DisableCommenting,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+nd57f209e_1 -> nab9cb1a7_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n35387fda_1 -> n968f3962_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='content']/section[3]/div/div[4]/article/div/div[1]/a/img</font>> ]
+
+n35387fda_1 -> nf92ed86f_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n71b21b50_1 -> nfd02f24e_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n71b21b50_1 -> nc3250c20_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+n307fb69d_1 -> n24d70125_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n307fb69d_1 -> n1b7f45c4_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+n3f224fc1_1 -> ne03e432b_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>Add_a_comment<br/>http://localhost:8080/login</font>> ]
+
+n3f224fc1_1 -> nb32eaf24_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n46900e73_1 -> nfa3c9eba_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n78bf735b_1 -> n2c6c03a2_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+n30937e77_1 -> nc3250c20_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!,<br/> lib:story-lines}</font>> ]
+
+n8ac57d21_1 -> n7f1cc7a9_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: DK12345!!<br/>//input[@id='field-password']</font>> ]
+
+n9af35d16_1 -> n4e9fed5d_1[ label=<EndOfAction<br/><font color="#444455">{eventName:Login,<br/> session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!,<br/> lib:story-lines}</font>> ]
+
+nf4b5fc5d_1 -> n4628ed2d_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+nf4b5fc5d_1 -> ncad38d66_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n8dc2bd2a_1 -> n639756e2_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n527b3f91_1 -> nddcc168f_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n968f3962_1 -> n6c63d31a_1[ label=<EndOfAction<br/><font color="#444455">{eventName:SelectProduct,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n24d70125_1 -> n65a3eb64_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+n24d70125_1 -> nfd6904c_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+na0a0e253_1 -> n1b7f45c4_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+na0a0e253_1 -> n14ad41b6_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/div/li[2]/form/button</font>> ]
+
+n76b0c9e_1 -> ndd889da7_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>Add_a_comment<br/>text: undefined<br/>test review</font>> ]
+
+n76b0c9e_1 -> n2ceb89e9_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n305a2baf_1 -> n342e458e_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n305a2baf_1 -> n83c5c37c_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n84672b91_1 -> na9e7a8dc_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n84672b91_1 -> nfb8028f_1[ label=<SelectProduct<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n9a7f8989_1 -> n9e53a368_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: undefined<br/>//input[@id='field-email']</font>> ]
+
+n9a7f8989_1 -> ndb4c73c8_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+n944c6abb_1 -> n90b9c8ed_1[ label=<EndOfAction<br/><font color="#444455">{eventName:AddComment,<br/> session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> lib:story-lines}</font>> ]
+
+n81706688_1 -> na6f0e3d3_1[ label=<<font point-size='9' color='#888899'>StartSession </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>http://localhost:8080/adminpatritech</font>> ]
+
+n81706688_1 -> n41d305b0_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n576c6995_1 -> n1b62c22a_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+nbab1a34b_1 -> na5b13272_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='modules-list-container-theme_modules']/div/div/div/div[2]/div[4]/div[2]/button</font>> ]
+
+nbab1a34b_1 -> ne1d3b18_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n3091af2_1 -> nc6ff7387_1[ label=<Login<br/><font color="#444455">{session:{name:disable_the_authorization_to_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:kapustya@post.bgu.ac.il,<br/> password:Demo12345!}</font>> ]
+
+n3091af2_1 -> n5aff0b63_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='post-product-comment-form']/div[6]/div[2]/button[2]</font>> ]
+
+n6ebb5647_1 -> n2f1df56f_1[ label=<Login<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true,<br/> username:DK@gmail.com,<br/> password:DK12345!!}</font>> ]
+
+n6ebb5647_1 -> nc02e4717_1[ label=<<font point-size='9' color='#888899'>WriteText </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>text: Demo12345!<br/>//input[@id='field-password']</font>> ]
+
+nefc69438_1 -> n30937e77_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='submit-login']</font>> ]
+
+nefc69438_1 -> n1a102475_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n85a1365e_1 -> nd90cce2b_1[ label=<AddComment<br/><font color="#444455">{session:{name:Add_a_comment,<br/> type:&lt;null&gt;},<br/> highLevel:true}</font>> ]
+
+n85a1365e_1 -> nafeac69b_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>disable_the_authorization_to_comment<br/>//*[@id='submit-login']</font>> ]
+
+n6863019c_1 -> ned456345_1[ label=<<font point-size='9' color='#888899'>Click </font><br/><font color='#006688'>Add_a_comment<br/>//*[@id='add-to-cart-or-refresh']/div[3]/div[2]/button</font>> ]
+
+
+}

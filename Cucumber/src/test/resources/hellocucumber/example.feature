@@ -1,6 +1,16 @@
 Feature: A set of scenarios for testing the "example" module
 
-  Scenario: Testing how a case where a user adds a product to the cart
-    Given an example scenario
-    When all step definitions are implemented
-    Then the scenario passes
+  Scenario: A user comments on product
+    Given the user logged in
+    And the user in the home page
+    And the user navigates to the product page he wants to comment on
+    When the user clicks on "write your review" button
+    Then message will be shown 'Review sent'
+
+  Scenario: An admin disables the commenting
+    Given the admin logged in
+    And the admin in his home page - dashboard
+    And the admin navigates to "Product Comments" module
+    When the admin disable the module
+    Then click on 'Yes, disable it'
+
